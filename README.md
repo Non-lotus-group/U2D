@@ -1,2 +1,5 @@
 # U2D
-A repository for Uka to practice.
+## What This Repo Working For   
+For a Little Enterainment And Practice Coding  
+## What To Achieve  
+Simulate a Easy Radar In Unity
