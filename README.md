@@ -4,5 +4,7 @@ For a Little Enterainment And Practice Coding
 ## What To Achieve  
 Simulate a Easy Radar In Unity  
 ## How To Deploy  
-"" git pull <>""  
+``` powershell
+git pull git@github.com:Non-lotus-group/U2D.git
+```
 And Open Local Project On Your Unity Hub
